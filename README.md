@@ -1,1 +1,1 @@
-# Python-School-Assignments-Week2
+# Python-School-Assignments-Week2-Ch.2
